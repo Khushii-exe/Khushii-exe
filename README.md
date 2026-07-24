@@ -1,63 +1,87 @@
 # Hi, I'm Khushii Singh 👋
 
-🎓 Computer Science Engineering Student (2028)
-💻 Building ML-powered web applications & strengthening DSA skills
+🎓 Computer Science Engineering Student (2028)  
+💻 Aspiring Software Engineer | Machine Learning Enthusiast | DSA Learner
+
+## 🚀 About Me
+
+- 🌱 Currently learning Full-Stack Development, Machine Learning, and DSA
+- 🤖 Passionate about building AI-powered web applications
+- 📈 Love solving real-world problems with technology
+- 🎯 Goal: Become a skilled Software Engineer and contribute to impactful products
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C++
+- Java
+- JavaScript
+
+**Web Development**
+- HTML
+- CSS
+- Flask
+
+**Machine Learning**
+- Scikit-learn
+- TF-IDF
+- Logistic Regression
+
+**Tools**
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 🧠 About Me
-
-* 🚀 Focused on real-world problem solving using Machine Learning
-* 📊 Built projects using TF-IDF, Logistic Regression, and AI APIs
-* 🔥 Practicing Data Structures & Algorithms consistently on LeetCode
-* 🎯 Goal: Become a strong software engineer with solid fundamentals
-
----
-
-## 💻 Projects
+## 🌟 Featured Projects
 
 ### 📧 Email Spam Detection Web App
 
-🔗 https://github.com/Khushii-exe/Email_spam_detector
+**Tech:** Python • Flask • Scikit-learn • TF-IDF • Logistic Regression
 
-* Built an end-to-end spam classification system (~97% accuracy)
-* Used TF-IDF for feature extraction and Logistic Regression for modeling
-* Developed a Flask-based web app for real-time predictions
-* Implemented dynamic UI feedback based on classification results
+🔗 **Repository:** https://github.com/Khushii-exe/Email_spam_detector
+
+- Built an end-to-end spam classification system with ~97% accuracy.
+- Used TF-IDF vectorization and Logistic Regression for classification.
+- Developed a Flask web application for real-time predictions.
+- Added dynamic UI feedback based on prediction results.
 
 ---
 
 ### 🤖 LifeDraft AI – Decision Intelligence App
 
-🔗 https://github.com/Khushii-exe/my-gemini3-app
+**Tech:** React • Gemini API • Recharts • JavaScript
 
-* Built an AI-powered decision-making web app using Gemini API
-* Designed multi-step decision workflows to simulate outcomes
-* Integrated data visualization (Recharts) for better insights
-* Enabled multimodal interaction (text/voice/image-based inputs)
+🔗 **Repository:** https://github.com/Khushii-exe/my-gemini3-app
 
----
-
-## 🧩 DSA & Problem Solving
-
-* 💡 Practicing core data structures (Arrays, Linked Lists, Trees, Graphs)
-* 🔥 Consistent problem solving on LeetCode
-* 🚀 Building strong logic & implementation skills
+- Developed an AI-powered decision support application.
+- Simulated multi-step decision workflows.
+- Visualized outcomes using Recharts.
+- Supported multimodal inputs including text, voice, and images.
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Currently Learning
 
-* 💡 Languages: Python, C++, Java
-* 🌐 Web: HTML, CSS, JavaScript
-* ⚙️ Tools: Git, VS Code
-* 📊 ML: TF-IDF, Logistic Regression
+- Data Structures & Algorithms
+- System Design Fundamentals
+- Machine Learning
+
+---
+
+## 💡 Coding Journey
+
+- 🚀 Consistently solving DSA problems on LeetCode.
+- 📖 Exploring Machine Learning and Generative AI.
+- 💻 Building practical projects to strengthen development skills.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/khushii-singh-k25042006s/
-* GitHub: https://github.com/Khushii-exe
+- 💼 LinkedIn: https://www.linkedin.com/in/khushii-singh-k25042006s
+- 💻 GitHub: https://github.com/Khushii-exe
 
----
+⭐ Thanks for visiting my profile!
