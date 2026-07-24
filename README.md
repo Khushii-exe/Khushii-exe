@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushii-exe&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushii-exe&show_icons=true&theme=github_dark)
 
 # Hi, I'm Khushii Singh 👋
 
