@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushii-exe&show_icons=true&theme=github_dark)
-
 # Hi, I'm Khushii Singh 👋
 
 🎓 Computer Science Engineering Student (2028)  
